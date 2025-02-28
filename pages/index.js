@@ -4,7 +4,7 @@ export default function App({ Component, pageProps }) {
         <div className="bg-gray-900 text-white min-h-screen flex flex-col items-center justify-center px-4">
             <header className="text-center py-6">
                 <h1 className="text-4xl font-bold mb-4">Automate Your Business With Xautomation</h1>
-                <p className="text-gray-300 mb-6">Sync Shopify, QuickBooks, Stripe — No coding required</p>
+                <p className="text-gray-300 mb-6">Automate Service — No coding required</p>
                 <div className="flex gap-4">
                     <button className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-lg shadow-lg">Get Started</button>
                     <button className="bg-gray-700 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded-lg shadow-lg">Learn More</button>
@@ -12,12 +12,12 @@ export default function App({ Component, pageProps }) {
             </header>
             <main className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-6xl">
                 <div className="bg-gray-800 p-6 rounded-xl shadow-lg border border-gray-700">
-                    <h3 className="text-xl font-semibold mb-2">🚀 Shopify + QuickBooks</h3>
+                    <h3 className="text-xl font-semibold mb-2">🚀 Two major Saas products</h3>
                     <p>Automatically sync and update in real-time</p>
                 </div>
                 <div className="bg-gray-800 p-6 rounded-xl shadow-lg border border-gray-700">
-                    <h3 className="text-xl font-semibold mb-2">💳 Stripe + HubSpot</h3>
-                    <p>Automatically update your CRM when customers pay</p>
+                    <h3 className="text-xl font-semibold mb-2">Two Major payment services</h3>
+                    <p>Automatically update your SAAS when customers pay</p>
                 </div>
                 <div className="bg-gray-800 p-6 rounded-xl shadow-lg border border-gray-700">
                     <h3 className="text-xl font-semibold mb-2">📊 AI-Powered Insights</h3>
