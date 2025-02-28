@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }) {
                 </div>
                 <div className="bg-gray-800 p-6 rounded-xl shadow-lg border border-gray-700">
                     <h3 className="text-xl font-semibold mb-2">Two Major payment services</h3>
-                    <p>Automatically update your SAAS when customers pay</p>
+                    <p>Automatically update your SAAS when Customers work with their products</p>
                 </div>
                 <div className="bg-gray-800 p-6 rounded-xl shadow-lg border border-gray-700">
                     <h3 className="text-xl font-semibold mb-2">📊 AI-Powered Insights</h3>
